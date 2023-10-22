@@ -1,7 +1,7 @@
 import requests
 import json
 
-api_key= 'FmmXHNTNLEh7p9oygtMvLEljvudBuQnt15cbqBgG'
+api_key= ****
 
 
 _query = input()
