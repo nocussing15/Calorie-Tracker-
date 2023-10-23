@@ -25,12 +25,12 @@ There are a couple of modules that will need to be installed to run the calorie-
 
 
 #### How the Program Works:
-1.The Program will ask for:
+1. The Program will ask for:
     - a date (ex:01/01/2023)
     - your meal (ex: Breakfast, Lunch, Dinner,Snack)
     - what food did you eat? (ex: Egg, chicken, coffee, beans, rice)
-2.Please make sure to enter in the information following the examples format per input
-3.When you open the program you will notice a note, all the food quantity is measured by 100g. So if you enter chicken, the calories calculated will be for 100g of chicken. 
+2. Please make sure to enter in the information following the examples format per input
+3. When you open the program you will notice a note, all the food quantity is measured by 100g. So if you enter chicken, the calories calculated will be for 100g of chicken. 
 
 #### Future: 
 As of now...
